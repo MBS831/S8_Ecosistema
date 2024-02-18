@@ -1,0 +1,15 @@
+{
+    "TotalBalance": "Balance total",
+    "ExpensesLastWeek": "Gastos: última semana",
+    "FromYesterday": "desde ayer",
+    "TodayExpenses": "gastos de hoy",
+    "days": {
+        "Monday": "Lunes",
+        "Tuesday": "Martes",
+        "Wednesday": "Miércoles",
+        "Thursday": "Jueves",
+        "Friday": "Viernes",
+        "Saturday": "Sábado",
+        "Sunday": "Domingo"
+    }
+}

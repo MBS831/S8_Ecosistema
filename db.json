@@ -1,0 +1,52 @@
+{
+    "expenses": [
+      {
+        "id": "1",
+        "week": {
+          "monday": 350,
+          "tuesday": 220,
+          "wednesday": 180,
+          "thursday": 410,
+          "friday": 270,
+          "saturday": 90,
+          "sunday": 30
+        }
+      },
+      {
+        "id": "2",
+        "week": {
+          "monday": 280,
+          "tuesday": 150,
+          "wednesday": 320,
+          "thursday": 190,
+          "friday": 370,
+          "saturday": 60,
+          "sunday": 40
+        }
+      },
+      {
+        "id": "3",
+        "week": {
+          "monday": 190,
+          "tuesday": 260,
+          "wednesday": 400,
+          "thursday": 140,
+          "friday": 330,
+          "saturday": 80,
+          "sunday": 10
+        }
+      },
+      {
+        "id": "4",
+        "week": {
+          "monday": 310,
+          "tuesday": 170,
+          "wednesday": 250,
+          "thursday": 390,
+          "friday": 300,
+          "saturday": 70,
+          "sunday": 20
+        }
+      }
+    ]
+  }
